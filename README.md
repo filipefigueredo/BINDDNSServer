@@ -4,7 +4,7 @@
 # BIND DNS Server for Small Corporations
 
 - [Meta](#Meta)
-- [System Requirements(#Operating systems and Hardware requirements)
+- [Operating systems and Hardware requirements](#Operating)
 
 ## Meta
 
